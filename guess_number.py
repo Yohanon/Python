@@ -1,4 +1,5 @@
 import random
+
 print("Welcome to Game")
 print("Enter press Enter to play ")
 print("Enter q for quit")
